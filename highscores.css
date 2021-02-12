@@ -1,0 +1,18 @@
+body {
+    color: #fff;
+}
+
+#highScoresList {
+    list-style: none;
+    margin-bottom: 4rem;
+    color: rgb(13, 13, 63);
+}
+
+.high-score {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.leaderboardbody{
+    background: linear-gradient(90deg, #ccda51 0%, #f186e3 100%)  
+}
